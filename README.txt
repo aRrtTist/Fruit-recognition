@@ -1,6 +1,6 @@
 **********************工程环境**********************
 OS：Windows 10 1803
-CPU：Intel i5 6300HQ
+CPU：Intel i5-6300HQ
 GPU：NVIDIA GTX960M
 Python：3.6.7
 Tensorflow-gpu：1.8
